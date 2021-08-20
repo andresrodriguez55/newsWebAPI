@@ -10,7 +10,7 @@
 ----
 ### Link
 
-Link: https://andresrodriguez55.github.io/newsWebAPI/
+https://andresrodriguez55.github.io/newsWebAPI/
 
 ### Description
 
