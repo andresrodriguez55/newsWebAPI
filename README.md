@@ -21,6 +21,6 @@ It has been totally focused on being able to make a responsible page and thus in
 
 ### Screenshots
 
-<a><img src="https://drive.google.com/uc?id=1OM8RVNQUM_xfsRE0WqBnROGkcvr5uNw3" width="100%" height="350px"></a>
+<a><img src="https://drive.google.com/uc?id=1OM8RVNQUM_xfsRE0WqBnROGkcvr5uNw3" ></a>
 
-<a ><img src="https://drive.google.com/uc?id=1NLbVr0t3DHSqzMpbZTQDLGbFPc56xL8E"  width="100%" height="350px"></a>
+<a ><img src="https://drive.google.com/uc?id=1NLbVr0t3DHSqzMpbZTQDLGbFPc56xL8E" ></a>
