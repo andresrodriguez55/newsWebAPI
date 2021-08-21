@@ -14,7 +14,7 @@ https://andresrodriguez55.github.io/newsWebAPI/
 
 ### Description
 
-With this project a start was made in the NOSQL databases and React. The page takes data from a free firebase database.
+With this project a start was made in the NOSQL databases and React. The page takes data from a free own firebase database.
 
 For now, the database only has the option to read for all,
 It is expected in the future to be able to make a management system that allows only admins to publish news from the page.
