@@ -1,22 +1,20 @@
 {
   "files": {
-    "main.css": "/newsWebAPI/static/css/main.e215c282.chunk.css",
-    "main.js": "/newsWebAPI/static/js/main.7bb4ae74.chunk.js",
-    "main.js.map": "/newsWebAPI/static/js/main.7bb4ae74.chunk.js.map",
-    "runtime-main.js": "/newsWebAPI/static/js/runtime-main.e0423a47.js",
-    "runtime-main.js.map": "/newsWebAPI/static/js/runtime-main.e0423a47.js.map",
-    "static/js/2.4ed0d8c9.chunk.js": "/newsWebAPI/static/js/2.4ed0d8c9.chunk.js",
-    "static/js/2.4ed0d8c9.chunk.js.map": "/newsWebAPI/static/js/2.4ed0d8c9.chunk.js.map",
-    "static/js/3.6379c3b8.chunk.js": "/newsWebAPI/static/js/3.6379c3b8.chunk.js",
-    "static/js/3.6379c3b8.chunk.js.map": "/newsWebAPI/static/js/3.6379c3b8.chunk.js.map",
+    "main.css": "/newsWebAPI/static/css/main.046904aa.chunk.css",
+    "main.js": "/newsWebAPI/static/js/main.ad87f46a.chunk.js",
+    "main.js.map": "/newsWebAPI/static/js/main.ad87f46a.chunk.js.map",
+    "runtime-main.js": "/newsWebAPI/static/js/runtime-main.e6bdaf34.js",
+    "runtime-main.js.map": "/newsWebAPI/static/js/runtime-main.e6bdaf34.js.map",
+    "static/js/2.f8f560bd.chunk.js": "/newsWebAPI/static/js/2.f8f560bd.chunk.js",
+    "static/js/2.f8f560bd.chunk.js.map": "/newsWebAPI/static/js/2.f8f560bd.chunk.js.map",
     "index.html": "/newsWebAPI/index.html",
-    "static/css/main.e215c282.chunk.css.map": "/newsWebAPI/static/css/main.e215c282.chunk.css.map",
-    "static/js/2.4ed0d8c9.chunk.js.LICENSE.txt": "/newsWebAPI/static/js/2.4ed0d8c9.chunk.js.LICENSE.txt"
+    "static/css/main.046904aa.chunk.css.map": "/newsWebAPI/static/css/main.046904aa.chunk.css.map",
+    "static/js/2.f8f560bd.chunk.js.LICENSE.txt": "/newsWebAPI/static/js/2.f8f560bd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e0423a47.js",
-    "static/js/2.4ed0d8c9.chunk.js",
-    "static/css/main.e215c282.chunk.css",
-    "static/js/main.7bb4ae74.chunk.js"
+    "static/js/runtime-main.e6bdaf34.js",
+    "static/js/2.f8f560bd.chunk.js",
+    "static/css/main.046904aa.chunk.css",
+    "static/js/main.ad87f46a.chunk.js"
   ]
 }
