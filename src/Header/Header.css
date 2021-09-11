@@ -1,0 +1,19 @@
+.nav
+{
+    height: 76px;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.938);
+    margin-bottom: 16px;
+    display: flex;
+    align-items: center;
+}
+
+.icon
+{
+    flex: .5;
+}
+
+.image
+{
+    height: auto;
+    width: 150px;
+}

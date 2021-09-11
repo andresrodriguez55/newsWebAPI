@@ -1,0 +1,90 @@
+@import url(https://fonts.googleapis.com/css2?family=STIX+Two+Text&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Newsreader:wght@200&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Playfair+Display:wght@500&family=Rokkitt:wght@100&display=swap);
+
+.NewsCardArea
+{
+    object-fit: contain;
+}
+
+.NewsCard
+{
+    display: flex;
+    padding: 10px;
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.938);
+    margin-bottom: 25px;
+    border-radius: 10px;
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(206, 206, 206, 0.116);
+}
+
+.ImageOfNews
+{
+    object-fit: cover;
+    width: 36%;
+    height: 36%;
+    border-radius: 7%;
+}
+
+.TextOfNewsArea
+{
+    padding-left: 13px;
+    padding-right: 13px;
+    object-fit: contain;
+    margin-bottom: 1px;
+}
+
+.TitleOfNewsFont
+{
+    font-size: 158%;
+    font-weight: bold;
+    font-family: 'STIX Two Text';
+    line-height: 16px;
+}
+
+.AuthorOfNewsArea
+{
+    object-fit: contain;
+    margin-bottom: 8px;
+}
+
+.AuthorOfNewsFont
+{
+    font-family: 'serif';
+    font-size: 75%;
+    line-height: 0px;
+}
+
+.DescriptionOfNewsFont
+{
+    font-family: 'Newsreader';
+    font-weight: bold;
+    font-size: 90%;
+}
+
+.DescriptionOfNewsArea
+{
+    margin-bottom: 16px;
+}
+
+.ReadMoreArea
+{
+  display: flex;
+  object-fit: contain;
+  margin-bottom: 10px;
+}
+
+.ReadMore
+{
+  font-family: "Playfair Display";
+  font-weight: bolder;
+  font-size: 90%;
+}
+
+.moreButton
+{
+    width: 15%;
+    left: 44%;
+}
